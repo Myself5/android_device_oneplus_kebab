@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_kebab.mk
+    $(LOCAL_DIR)/carbon_kebab.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_kebab-user \
-    lineage_kebab-userdebug \
-    lineage_kebab-eng
+    carbon_kebab-user \
+    carbon_kebab-userdebug \
+    carbon_kebab-eng
